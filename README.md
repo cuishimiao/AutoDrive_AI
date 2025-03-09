@@ -173,4 +173,4 @@ ros2::Node::SharedPtr节点创建 → 自定义消息类型 → 多节点同步
 2. 启动CARLA仿真：
    ```bash
    ./CarlaUE4.sh -quality-level=Low
-   ```
+   ```  
